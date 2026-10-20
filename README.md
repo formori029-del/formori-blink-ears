@@ -11,15 +11,18 @@ BOOTH: https://zrpt.booth.pm/
 
 ## VCC에 추가 / VCCに追加 / Add to VCC
 
+FORMORI 툴 공용 목록입니다 (Accessory Extractor 와 같은 주소) / FORMORI ツール共通リスト / Shared FORMORI listing
+
 VCC → Settings → Packages → **Add Repository** →
 
 ```
-https://formori029-del.github.io/formori-blink-ears/index.json
+https://formori029-del.github.io/formori-accessory-extractor/index.json
 ```
 
-또는 / または / or: `vcc://vpm/addRepo?url=https://formori029-del.github.io/formori-blink-ears/index.json`
+또는 / または / or: `vcc://vpm/addRepo?url=https://formori029-del.github.io/formori-accessory-extractor/index.json`
 
 프로젝트의 Manage Project 에서 **FORMORI BLINK EARS** 를 추가한 뒤, 아바타를 오른쪽 클릭 → `FORMORI > Blink Ears`. 인스펙터에서 키를 한 번 입력하면 끝입니다.
 
 - 패키지: `Packages/com.formori.blink-ears` (에디터 코드는 DLL)
-- 릴리스: GitHub Actions → **Build Release** (package.json 의 version 으로 태그·zip 생성) → **Build Repo Listing** 이 index.json 게시
+- 릴리스: 이 저장소 Actions → **Build Release** (package.json 의 version 으로 태그·zip 생성)
+- 목록: formori-accessory-extractor 저장소의 **Build Repo Listing** 이 두 저장소의 릴리스를 모아 index.json 게시 (하루 한 번 자동, 바로 반영하려면 수동 실행)
