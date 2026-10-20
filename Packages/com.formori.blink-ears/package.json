@@ -1,0 +1,18 @@
+{
+  "name": "com.formori.blink-ears",
+  "displayName": "FORMORI BLINK EARS",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "눈 감는 표정을 지으면 귀가 앞으로 꺾이고 쫑긋하며 꼬리가 살랑 흔들리는 비파괴 NDMF 기믹. 윙크하면 그쪽 귀만. FaceEmo·아바타 기본 표정·페이스 트래킹 프리팹을 빌드 결과에서 자동으로 읽는다",
+  "author": {
+    "name": "FORMORI",
+    "url": "https://zrpt.booth.pm/"
+  },
+  "vpmDependencies": {
+    "nadena.dev.ndmf": ">=1.7.0",
+    "nadena.dev.modular-avatar": ">=1.10.0",
+    "com.vrchat.avatars": ">=3.7.0"
+  },
+  "documentationUrl": "https://github.com/formori029-del/formori-blink-ears",
+  "changelogUrl": "https://github.com/formori029-del/formori-blink-ears/blob/main/Packages/com.formori.blink-ears/CHANGELOG.md"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "FormoriBlinkEars.Runtime",
+    "rootNamespace": "Formori.BlinkEars",
+    "references": [
+        "VRC.SDKBase"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
