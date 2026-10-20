@@ -1,5 +1,7 @@
 # FORMORI BLINK EARS (VPM)
 
+![Blink Ears](Website/banner.png)
+
 눈 감는 표정을 지으면 귀가 앞으로 꺾이고 쫑긋하며 꼬리가 살랑 흔들리는 VRChat 아바타 기믹입니다. 윙크하면 그쪽 귀만 움직입니다.
 目を閉じる表情で耳が前に倒れてピクッとし、しっぽがゆらゆら揺れる VRChat アバターギミックです。
 Ears fold forward and flick, and the tail sways, when an expression closes the eyes.
